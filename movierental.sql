@@ -76,3 +76,5 @@ CREATE TABLE IF NOT EXISTS  `movie_renter` (
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
   ;
+  
+  -- Comment added by Saba
